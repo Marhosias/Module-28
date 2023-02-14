@@ -34,4 +34,3 @@
 Загрузите свой Selenium WebDriver с https://chromedriver.chromium.org/downloads (выберите версию, совместимую с вашим браузером)
 
 Запустить тесты: pytest -v --driver Chrome --driver-path /chromedriver tests_rostelecom.py
-r"C:\Users\Marhosias\Desktop\chromedriver.exe"
